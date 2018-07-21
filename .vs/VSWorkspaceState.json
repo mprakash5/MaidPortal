@@ -1,17 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\node_modules\\ui-carousel",
-    "\\node_modules\\ui-carousel\\dist",
-    "\\node_modules\\ui-carousel\\dist\\src",
-    "\\node_modules\\ui-carousel\\dist\\src\\ui-carousel",
     "\\src",
     "\\src\\app",
     "\\src\\app\\about",
     "\\src\\styles",
-    "\\src\\styles\\bootstrap-4.1.1-dist",
-    "\\src\\styles\\bootstrap-4.1.1-dist\\css"
+    "\\src\\styles\\bootstrap-4.1.1-dist"
   ],
-  "SelectedNode": "\\src\\styles\\bootstrap-4.1.1-dist\\css\\bootstrap.min.css",
   "PreviewInSolutionExplorer": false
 }
